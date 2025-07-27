@@ -1,8 +1,7 @@
 # Sebastião Komada
 
 
-Meu nome é Sebastião Komada, tenho 19 anos e sou formado no Ensino Médio com habilitação técnica em Desenvolvimento de Sistemas pela ETEC. Atualmente, curso Engenharia de Telecomunicações no INATEL.
-
+Sou Sebastião Komada, tenho 19 anos e sou formado no Ensino Médio com habilitação técnica em Desenvolvimento de Sistemas pela ETEC. Atualmente, sou estudante de Engenharia de Telecomunicações no INATEL.
 
 ---
 ### 🤖 Linguagens e Tecnologias
